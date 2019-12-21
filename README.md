@@ -1,1 +1,0 @@
-# AppsFlyer-Segment-SDK-Example
